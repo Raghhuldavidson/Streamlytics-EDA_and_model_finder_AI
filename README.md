@@ -62,7 +62,7 @@ Users can:
 
 ## Project Structure
 ```bash
-streamlytics.py        # Main Streamlit application
+code_eda.py        # Main Streamlit application
 requirements.txt       # Dependencies
 .env                   # API keys (not included)
 ```
